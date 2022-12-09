@@ -1,0 +1,22 @@
+{
+  "name": "create-gh-actions-demo",
+  "description": "description",
+  "version": "0.0.0",
+  "author": "nightmarefails <harrisonarmstrong93@gmail.com>",
+  "bin": "src/cli.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "eslint": "eslint src"
+},
+  "files": [
+    "src",
+    "templates"
+  ],
+  "dependencies": {
+    "create-create-app": "^7.3.0"
+  },
+  "license": "MIT"
+}
